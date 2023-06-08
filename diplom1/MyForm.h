@@ -221,7 +221,7 @@ namespace diplom1 {
 			// pictureBox5
 			// 
 			this->pictureBox5->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox5.Image")));
-			this->pictureBox5->Location = System::Drawing::Point(136, 302);
+			this->pictureBox5->Location = System::Drawing::Point(140, 299);
 			this->pictureBox5->Name = L"pictureBox5";
 			this->pictureBox5->Size = System::Drawing::Size(74, 86);
 			this->pictureBox5->SizeMode = System::Windows::Forms::PictureBoxSizeMode::StretchImage;
@@ -314,10 +314,10 @@ namespace diplom1 {
 		}
 #pragma endregion
 	private: System::Void calculateButton_Click(System::Object^ sender, System::EventArgs^ e) {
-		// Get number of servings from textbox
+		// Количество порций из servingsTextbox
 		int numServings = Int32::Parse(servingsTextbox->Text);
 
-		// Calculate ingredients based on selected checkboxes and number of servings
+		// Рассчёт ингредиентов на основе выбранных Checkbox и количества порций
 		String^ result = "";
 		if (vanillaCheckbox->Checked) {
 			int eggs = 3 * numServings;
@@ -364,7 +364,7 @@ namespace diplom1 {
 			result += "- банан: " + banana + " шт.\n\n";
 		}
 
-		// Display result in label
+		// Вывод результата на label
 		resultLabel->Text = result;
 	}
 };
