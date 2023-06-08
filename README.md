@@ -10,7 +10,7 @@ ________________________________________________________________________
 ![image](https://github.com/Digital-Department-Vavilov-University/ice-cream-calculation/assets/135830345/410ef7e1-23af-42b1-b960-39c5c1267b3b)
 
 ________________________________________________________________________
-Пример фрагмента кода:
+Фрагмент кода:
 
 ![image](https://github.com/Digital-Department-Vavilov-University/ice-cream-calculation/assets/135830345/d2995707-ae00-4153-9ef4-b570b7dbcfc9)
 
