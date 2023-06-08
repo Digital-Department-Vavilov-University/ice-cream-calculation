@@ -12,7 +12,7 @@ ________________________________________________________________________
 ________________________________________________________________________
 Фрагмент кода:
 
-![image](https://github.com/Digital-Department-Vavilov-University/ice-cream-calculation/assets/135830345/d2995707-ae00-4153-9ef4-b570b7dbcfc9)
+![image](https://github.com/Digital-Department-Vavilov-University/ice-cream-calculation/assets/135830345/a5f0b99d-e85f-45f8-9152-eaa7a8de6724)
 
 ________________________________________________________________________
 Среда исполнения:
